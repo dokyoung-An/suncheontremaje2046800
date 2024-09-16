@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20025" start="node1" appversion="7.0.10">
+  <panorama id="node1" hideabout="1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="176.652" tilt="-4.73784" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="세대입구" author="" nodeid="node1" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:09:00" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-174.96" tilt="-16.66" skinid="ht_node" title="현관1-2" url="{node26}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <input leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="178.987" tilt="-3.33659" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="현관1-1" author="" nodeid="node27" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:56" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="0.87" tilt="-38.42" skinid="ht_node" title="현관1-2" url="{node26}" description=""/>
+      <hotspot id="Point02" target="" pan="-187.09" tilt="-12.84" skinid="ht_node" title="현관창고" url="{node25}" description=""/>
+      <hotspot id="Point03" target="" pan="-114.72" tilt="-20.36" skinid="ht_node" title="세대입구" url="{node1}" description=""/>
+      <hotspot id="Point04" target="" pan="-217.45" tilt="-16.2" skinid="ht_node" title="다용도실" url="{node13}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <input leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-2.86896" tilt="-6.39443" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="현관1-2" author="" nodeid="node26" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:52" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-156.21" tilt="-9.34" skinid="ht_node" title="세대입구" url="{node1}" description=""/>
+      <hotspot id="Point03" target="" pan="-183.11" tilt="-40.28" skinid="ht_node" title="현관1-1" url="{node27}" description=""/>
+      <hotspot id="Point02" target="" pan="-6.71" tilt="-31.3" skinid="ht_node" title="복도4" url="{node18}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-175.956" tilt="-5.14572" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="현관창고" author="" nodeid="node25" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:49" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-178.28" tilt="-30.14" skinid="ht_node" title="현관1-1" url="{node27}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-176.92" tilt="-3.07017" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="침실1" author="" nodeid="node8" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:36" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-113.69" tilt="-16.11" skinid="ht_node" title="복도1" url="{node9}" description=""/>
+      <hotspot id="Point02" target="" pan="-196.51" tilt="-17.16" skinid="ht_node" title="파우더룸" url="{node5}" description=""/>
+      <hotspot id="Point03" target="" pan="-349.84" tilt="-14.45" skinid="ht_node" title="발코니" url="{node7}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="6.81682" tilt="-3.25682" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="파우더룸" author="" nodeid="node5" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:24" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-193.74" tilt="-20.3" skinid="ht_node" title="침실1" url="{node8}" description=""/>
+      <hotspot id="Point02" target="" pan="-290.59" tilt="-26.66" skinid="ht_node" title="부부욕실1-1" url="{node4}" description=""/>
+      <hotspot id="Point03" target="" pan="-345.39" tilt="-21.59" skinid="ht_node" title="드레스룸" url="{node2}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="1.63992" tilt="-1.96495" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="드레스룸" author="" nodeid="node2" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:11" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-245.23" tilt="-21.44" skinid="ht_node" title="파우더룸" url="{node5}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="83.2829" tilt="-3.80505" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="부부욕실1-1" author="" nodeid="node4" comment="넓게" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:19" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-3.66" tilt="-30.08" skinid="ht_node" title="부부욕실1-2" url="{node3}" description=""/>
+      <hotspot id="Point02" target="" pan="-174.99" tilt="-25.67" skinid="ht_node" title="파우더룸" url="{node5}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="173.476" tilt="-0.553517" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="부부욕실1-2" author="" nodeid="node3" comment="넓게" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:15" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-178.56" tilt="-27.49" skinid="ht_node" title="부부욕실1-1" url="{node4}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="12.9851" tilt="-2.26072" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="발코니" author="" nodeid="node7" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:33" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-81.76" tilt="-19.52" skinid="ht_node" title="실외기실" url="{node6}" description=""/>
+      <hotspot id="Point02" target="" pan="-167.08" tilt="-16.92" skinid="ht_node" title="침실1" url="{node8}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="88.0524" tilt="-3.76256" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="실외기실" author="" nodeid="node6" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:28" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-186.22" tilt="-28.35" skinid="ht_node" title="발코니" url="{node7}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-170.137" tilt="0.228974" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="복도1" author="" nodeid="node9" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:40" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-356.89" tilt="-17.04" skinid="ht_node" title="침실1" url="{node8}" description=""/>
+      <hotspot id="Point02" target="" pan="-101.4" tilt="-20.58" skinid="ht_node" title="침실4" url="{node10}" description=""/>
+      <hotspot id="Point03" target="" pan="-204.09" tilt="-14.45" skinid="ht_node" title="복도2" url="{node15}" description=""/>
+      <hotspot id="Point04" target="" pan="-163.36" tilt="-19.99" skinid="ht_node" title="거실" url="{node16}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-4.23615" tilt="-1.27336" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="거실" author="" nodeid="node16" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:07" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point02" target="" pan="-130.87" tilt="-18.07" skinid="ht_node" title="복도3" url="{node17}" description=""/>
+      <hotspot id="Point01" target="" pan="-189.19" tilt="-13.89" skinid="ht_node" title="복도2" url="{node15}" description=""/>
+      <hotspot id="Point03" target="" pan="-243.51" tilt="-15" skinid="ht_node" title="복도1" url="{node9}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="8.17213" tilt="-0.544423" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="주방" author="" nodeid="node14" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:59" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-277.93" tilt="-15.44" skinid="ht_node" title="다용도실" url="{node13}" description=""/>
+      <hotspot id="Point02" target="" pan="-167.85" tilt="-26.64" skinid="ht_node" title="복도2" url="{node15}" description=""/>
+      <hotspot id="Point03" target="" pan="-122.42" tilt="-12.92" skinid="ht_node" title="복도1" url="{node9}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="다용도실" author="" nodeid="node13" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:56" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-179.54" tilt="-17.43" skinid="ht_node" title="주방" url="{node14}" description=""/>
+      <hotspot id="Point02" target="" pan="-354.91" tilt="-16.84" skinid="ht_node" title="현관1-1" url="{node27}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-0.620435" tilt="-3.17037" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="복도2" author="" nodeid="node15" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:03" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-162.03" tilt="-16.29" skinid="ht_node" title="복도3" url="{node17}" description=""/>
+      <hotspot id="Point02" target="" pan="-98.99" tilt="-20.21" skinid="ht_node" title="거실" url="{node16}" description=""/>
+      <hotspot id="Point03" target="" pan="-14.9" tilt="-16.81" skinid="ht_node" title="복도1" url="{node9}" description=""/>
+      <hotspot id="Point04" target="" pan="-327.35" tilt="-15.94" skinid="ht_node" title="침실5" url="{node11}" description=""/>
+      <hotspot id="Point05" target="" pan="-267.01" tilt="-22.09" skinid="ht_node" title="주방" url="{node14}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-0.620528" tilt="-3.16749" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="복도3" author="" nodeid="node17" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:12" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-272.4" tilt="-22.03" skinid="ht_node" title="침실3" url="{node19}" description=""/>
+      <hotspot id="Point02" target="" pan="-74.7" tilt="-23.87" skinid="ht_node" title="복도팬트리" url="{node20}" description=""/>
+      <hotspot id="Point03" target="" pan="-1.76" tilt="-24.93" skinid="ht_node" title="복도4" url="{node18}" description=""/>
+      <hotspot id="Point04" target="" pan="-166.62" tilt="-15.73" skinid="ht_node" title="복도2" url="{node15}" description=""/>
+      <hotspot id="Point05" target="" pan="-213.61" tilt="-16.3" skinid="ht_node" title="거실" url="{node16}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="4.03315" tilt="-5.98091" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="복도4" author="" nodeid="node18" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:17" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-356.05" tilt="-23.3" skinid="ht_node" title="공용욕실1-1" url="{node24}" description=""/>
+      <hotspot id="Point02" target="" pan="-313.74" tilt="-20.89" skinid="ht_node" title="침실2" url="{node21}" description=""/>
+      <hotspot id="Point03" target="" pan="-200.01" tilt="-10.99" skinid="ht_node" title="침실3" url="{node19}" description=""/>
+      <hotspot id="Point04" target="" pan="-168.79" tilt="-10.96" skinid="ht_node" title="복도팬트리" url="{node20}" description=""/>
+      <hotspot id="Point05" target="" pan="-184.4" tilt="-22.53" skinid="ht_node" title="복도3" url="{node17}" description=""/>
+      <hotspot id="Point06" target="" pan="-81.87" tilt="-37.42" skinid="ht_node" title="현관1-2" url="{node26}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="10.4963" tilt="-5.54781" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="침실2" author="" nodeid="node21" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:30" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-196.99" tilt="-17.41" skinid="ht_node" title="복도4" url="{node18}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="2.42835" tilt="-6.20555" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="침실3" author="" nodeid="node19" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:22" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-200.9" tilt="-20.83" skinid="ht_node" title="복도3" url="{node17}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-2.76749" tilt="-6.4357" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="침실4" author="" nodeid="node10" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:44" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-175.76" tilt="-23.11" skinid="ht_node" title="복도1" url="{node9}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="13.4017" tilt="-6.71701" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="침실5" author="" nodeid="node11" comment="" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:07:48" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-205.95" tilt="-13.03" skinid="ht_node" title="복도2" url="{node15}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="174.199" tilt="0.274516" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="복도팬트리" author="" nodeid="node20" comment="넓게" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:26" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-178.01" tilt="-28.94" skinid="ht_node" title="복도3" url="{node17}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-77.34" tilt="-0.621082" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="공용욕실1-1" author="" nodeid="node24" comment="넓게" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:44" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-211.77" tilt="-34.32" skinid="ht_node" title="복도4" url="{node18}" description=""/>
+      <hotspot id="Point02" target="" pan="-89.77" tilt="-39.76" skinid="ht_node" title="공용욕실1-2" url="{node23}" description=""/>
+      <hotspot id="Point03" target="" pan="-36.86" tilt="-23.78" skinid="ht_node" title="공용욕실1-3" url="{node22}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-177.1" tilt="-2.406" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="공용욕실1-2" author="" nodeid="node23" comment="넓게" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:39" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-339.03" tilt="-38.31" skinid="ht_node" title="공용욕실1-3" url="{node22}" description=""/>
+      <hotspot id="Point02" target="" pan="-265.94" tilt="-38.02" skinid="ht_node" title="공용욕실1-1" url="{node24}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="120.836" tilt="-0.244105" fov="129.808"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata tags="2024년 09월 07일 순천 트리마제 204동 801호 (55평)" longitude="128.720675" title="공용욕실1-3" author="" nodeid="node22" comment="넓게" copyright="" heading="0" altitude="189.09" customnodeid="" source="" latitude="35.831717" datetime="2024:09:12 18:08:35" description="" info=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label borderradius="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" border="1" borderalpha="1" background="1" textalpha="1" wordwrap="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" target="" pan="-179.88" tilt="-38.56" skinid="ht_node" title="공용욕실1-2" url="{node23}" description=""/>
+      <hotspot id="Point02" target="" pan="-232.14" tilt="-29.48" skinid="ht_node" title="공용욕실1-1" url="{node24}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomspeed="2" delay="none" blendcolor="0x000000" softedge="0" type="crossdissolve" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" zoomfov="40"/>
+    <autorotate startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" delay="10.00" noderandom="1" speed="0.020" horizonfromdefview="0" enabled="1" returntohorizon="0.000"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" hideabout="1" speedwheel="1" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" invertcontrol="1" contextprojections="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" title="순천 트리마제 " author="" comment="156 Type" description="204동 801호" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
